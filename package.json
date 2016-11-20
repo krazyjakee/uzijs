@@ -4,7 +4,8 @@
   "description": "Eazy handling of complex promise chains",
   "main": "uzi.js",
   "scripts": {
-    "test": "mocha -w"
+    "test": "mocha",
+    "watch": "mocha -w"
   },
   "repository": {
     "type": "git",
