@@ -1,4 +1,4 @@
-var uzi = class Uzi {
+module.exports = class Uzi {
 
 	constructor(clip, parent) {
 
@@ -239,5 +239,3 @@ var uzi = class Uzi {
 	}
 
 }
-
-module.exports = uzi
