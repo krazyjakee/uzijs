@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/krazyjakee/uzijs.svg?branch=master)](https://travis-ci.org/krazyjakee/uzijs)
+
 # Uzijs
 Eazy handling of complex promise chains
 
